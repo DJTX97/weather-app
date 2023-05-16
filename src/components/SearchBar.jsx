@@ -65,7 +65,7 @@ const SearchBar = () => {
           className="bg-slate-400 rounded-r-full px-5 py-1 md:px-3 hover:bg-slate-300 flex items-center"
           onClick={handleSubmitClicked}
         >
-          <img src="src\assets\icons\search.svg" width={18} />
+          <img src=".\src\assets\icons\search.svg" width={18} />
         </button>
       </div>
 
